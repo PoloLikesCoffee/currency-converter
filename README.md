@@ -1,7 +1,7 @@
 # Project: Currency Converter App
 
 **Live Link**:
-👉 polo-currency-converter.netlify.app
+👉 https://polo-currency-converter.netlify.app
 
 ## About
 
